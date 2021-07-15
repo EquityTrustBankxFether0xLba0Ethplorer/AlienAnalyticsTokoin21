@@ -4,7 +4,6 @@ about: Propose an enhancement or request a new feature
 title: ''
 labels: enhancement
 assignees: ''
-projects: NodleCode/3
 
 ---
 
